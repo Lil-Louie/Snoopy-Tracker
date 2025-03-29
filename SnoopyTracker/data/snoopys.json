@@ -1,0 +1,24 @@
+[
+    {
+      "id": "snoopy1",
+      "name": "Astronaut Snoopy",
+      "description": "Outside the Charles M. Schulz Museum.",
+      "latitude": 38.4451,
+      "longitude": -122.7175
+    },
+    {
+      "id": "snoopy2",
+      "name": "Skater Snoopy",
+      "description": "Near Snoopy's Home Ice skating rink.",
+      "latitude": 38.4454,
+      "longitude": -122.7183
+    },
+    {
+      "id": "snoopy3",
+      "name": "Farmer Snoopy",
+      "description": "Sonoma County Farm Trails office.",
+      "latitude": 38.4075,
+      "longitude": -122.7149
+    }
+  ]
+  
